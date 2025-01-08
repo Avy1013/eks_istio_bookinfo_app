@@ -8,17 +8,15 @@ Welcome to the **Book Info Project**! This project showcases a microservices arc
 
 ## 🔧 Tools Used  
 
-Here are the technologies that powered this project:  
-
 | Tool           | Description                                                                                  | Logo                                                                 |
-|-----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| **Istio**      | Service mesh to manage microservices traffic and add observability.                          | ![Istio](https://api.civo.com/k3s-marketplace/istio.png) |
-| **Kiali**      | Observability tool for Istio to visualize the service mesh.                                  | ![Kiali](https://layer5.io/static/95168fc2224d518ba37aee57b1324bd4/kiali-operator-color.svg)       |
-| **Grafana**    | Analytics and visualization of performance metrics.                                          | ![Grafana](https://grafana.com/static/assets/img/fav32.png)          |
-| **Prometheus** | Monitoring tool for collecting and querying time-series data.                                | ![Prometheus](https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg)      |
-| **Kubernetes** | Container orchestration platform for deploying, scaling, and managing microservices.         | ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)              |
-| **Argo CD**    | GitOps continuous delivery tool for Kubernetes applications.                                 | ![Argo CD](https://argo-cd.readthedocs.io/en/stable/assets/logo.png) |
-| **Docker**     | Containerization platform used to package the microservices.                                 | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png) |
+|----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Istio**      | Service mesh to manage microservices traffic and add observability.                          | <img src="https://api.civo.com/k3s-marketplace/istio.png" width="50" height="50"> |
+| **Kiali**      | Observability tool for Istio to visualize the service mesh.                                  | <img src="https://layer5.io/static/95168fc2224d518ba37aee57b1324bd4/kiali-operator-color.svg" width="50" height="50"> |
+| **Grafana**    | Analytics and visualization of performance metrics.                                          | <img src="https://grafana.com/static/assets/img/fav32.png" width="50" height="50"> |
+| **Prometheus** | Monitoring tool for collecting and querying time-series data.                                | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="50" height="50"> |
+| **Kubernetes** | Container orchestration platform for deploying, scaling, and managing microservices.         | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50"> |
+| **Argo CD**    | GitOps continuous delivery tool for Kubernetes applications.                                 | <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="50" height="50"> |
+| **Docker**     | Containerization platform used to package the microservices.                                 | <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" height="50"> |
 
 ---
 
