@@ -17,7 +17,7 @@ Welcome to the **Book Info Project**! This project showcases a microservices arc
 | **Kubernetes** | Container orchestration platform for deploying, scaling, and managing microservices.         | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="50" height="50"> |
 | **Argo CD**    | GitOps continuous delivery tool for Kubernetes applications.                                 | <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="50" height="50"> |
 | **Docker**     | Containerization platform used to package the microservices.                                 | <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" height="50"> |
-
+| **EKS**        | Managed Kubernetes service by AWS for running containerized applications.                    | <img src="https://static.wixstatic.com/media/ef1211_56117c1760d7401cbc6a3b8708eecdef~mv2.png/v1/fill/w_447,h_448,al_c,lg_1,q_85,enc_avif,quality_auto/ef1211_56117c1760d7401cbc6a3b8708eecdef~mv2.png" width="50" height="50"> |
 ---
 
 ## ✨ Features  
